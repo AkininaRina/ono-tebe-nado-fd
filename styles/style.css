@@ -108,9 +108,7 @@
 }
 
 .bet-button {
-    border: none;
     background: none;
-    padding: 0;
     font: inherit;
     cursor: pointer;
     padding: 12px 32px;
