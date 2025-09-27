@@ -28,7 +28,7 @@
     gap: 32px;
     list-style: circle;
     font-size: 18px;
-    line-height: 100%;
+    line-height: 1;
 }
 
 .header__links-list-item_no-bullit {
@@ -65,7 +65,7 @@
     margin-bottom: 106px;
     color: #fff;
     font-size: 100px;
-    line-height: 115%;
+    line-height: 1.15;
     text-transform: uppercase;
     letter-spacing: 30px;
 }
@@ -101,7 +101,7 @@
     color: #fff;
     font-weight: 400;
     font-size: 22px;
-    line-height: 28px;
+    line-height: 1.27;
     word-spacing: 19px;
     text-transform: uppercase;
 
@@ -130,7 +130,7 @@
 .lots__heading {
     font-weight: 700;
     font-size: 40px;
-    line-height: 100%;
+    line-height: 1;
     text-transform: uppercase;
     margin-bottom: 30px;
     margin-left: 40px;
@@ -184,7 +184,7 @@
     color: #fff;
     font-weight: 700;
     font-size: 22px;
-    line-height: 120%;
+    line-height: 1.2;
     text-transform: uppercase;
     text-decoration: underline;
     text-decoration-thickness: 0%;
@@ -203,7 +203,7 @@
 
 .lots__look-more-link {
     font-size: 20px;
-    line-height: 100%;
+    line-height: 1;
     margin-left: 40px;
 }
 
@@ -251,7 +251,7 @@
 
 .about__title {
     font-size: 40px;
-    line-height: 100%;
+    line-height: 1;
     text-transform: uppercase;
     margin-bottom: 104px;
 
@@ -277,7 +277,7 @@
 
 .address__link {
     font-size: 18px;
-    line-height: 24.3px;
+    line-height: 1.35;
     text-decoration: none;
     border-bottom: 1px solid #000000;
 }
