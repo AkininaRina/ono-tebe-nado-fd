@@ -299,6 +299,7 @@
 
 /* footer */
 .footer {
+    margin: 0 0 82px;
     padding: 0 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
